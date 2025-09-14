@@ -3,8 +3,7 @@
 int main() {
   // first define the variables used in the program
   int motors; // number of motors (whole number)
-  double
-      weight; // total weight of packages (i used "double" so it can be decimal)
+  double weight; // total weight of packages (i used "double" so it can be decimal)
   double capacity;  // how much 1 motor can carry (decimal)
   double per_motor; // how much each motor needs to carry (decimal)
 
@@ -35,3 +34,4 @@ int main() {
 
   return 0; // end of program
 }
+
